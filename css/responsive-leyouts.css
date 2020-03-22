@@ -1,0 +1,243 @@
+
+
+/* ---------- MAX 1500PX ---------- */
+@media only screen and (max-width:1500px) {
+	
+}
+
+/* ---------- MAX 1280PX ---------- */
+@media only screen and (max-width:1280px) {
+
+}
+
+/* ---------- MAX 1199PX ---------- */
+@media only screen and (max-width:1199px) {
+
+
+}
+
+
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+.content-logo{
+	display:none;
+	}
+
+}
+	
+/* ---------- MAX 1080PX ---------- */
+@media screen and (max-width:1080px) {
+
+}
+
+
+
+/* ---------- MAX 1024PX ---------- */
+@media screen and (max-width:1024px) {
+.m-bottom{
+	 margin-bottom:0px;
+	 }
+.p-bottom{
+	    padding-bottom:46px;
+		}
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (min-width:768px) and (max-width:991px) {
+.content-logo {
+    display: none;
+}
+.logo-area h1 {
+    font-family: 'Seaweed Script', cursive;
+    font-size: 22px;
+}
+.menu-area {
+    padding-top: 0px;
+    margin-top: -52px;
+}
+.menu-area ul li a {
+    font-size: 18px;
+}
+.left-content-inner {
+    padding-bottom:0px;
+    width: 100% !important;
+}
+.single-right {
+    float: left;
+    margin-right: 0%;
+    width: 100%;
+	margin-top:10px;
+}
+.right-content {
+    width: 100%;
+}
+
+
+
+
+
+
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (max-width:800px) {
+	
+
+}
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px) {
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (max-width:767px) {
+	
+.logo-area h1 {
+    font-size: 22px;
+    width: 100%;
+    text-align: center;
+}
+.menu-area ul li {
+    text-align:center;
+    display: block;
+}
+.menu-area ul li a {
+    font-size:22px;
+    padding:10px 20px;
+    border-bottom: 1px dotted #cecece;
+	border-right:0px dotted #cecece;
+}
+.dropdown {
+    float: left !important;
+	width: 100%;
+	margin-bottom: 6px;
+}
+.menu-area {
+    padding-top: 15px;
+}
+section.main-area p {
+    font-size: 14px;
+}
+.single-left {
+    margin-top: 10px;
+}
+.content-logo {
+    display: none;
+}
+.single-right {
+    float:left;
+    margin-top: 10px;
+    margin-right: 0%;
+    margin-bottom: 10px;
+}
+footer p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px dotted #b2b2b2;
+    margin-top: 10px;
+}
+.left-content-inner {
+    width: 100%;
+	padding-left: 3%;
+}
+.right-content {
+    width: 100% !important;
+}
+.single-right{
+	width:100%;
+	}
+
+
+
+}
+
+
+
+/* ---------- MAX 640PX ---------- */
+@media screen and (max-width:640px) {
+
+}
+
+/* ---------- MAX 480PX ---------- */
+@media screen and (max-width:480px) {
+
+
+}
+
+
+/* ---------- MAX 360PX ---------- */
+@media screen and (max-width:360px) {
+
+}
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+	
+.logo-area h1 {
+    font-size: 22px;
+    width: 100%;
+    text-align: center;
+}
+.menu-area ul li {
+    text-align:center;
+    display: block;
+}
+.menu-area ul li a {
+    font-size:22px;
+    padding:10px 20px;
+    border-bottom: 1px dotted #cecece;
+	border-right:0px dotted #cecece;
+}
+.dropdown {
+    float: left !important;
+	width: 100%;
+	margin-bottom: 6px;
+}
+.menu-area {
+    padding-top: 15px;
+}
+section.main-area p {
+    font-size: 14px;
+}
+.single-left {
+    margin-top: 10px;
+}
+.content-logo {
+    display: none;
+}
+.single-right {
+    float:left;
+    margin-top: 10px;
+    margin-right: 0%;
+    margin-bottom: 10px;
+}
+footer p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px dotted #b2b2b2;
+    margin-top: 10px;
+}
+.left-content-inner {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+}
